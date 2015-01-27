@@ -3,7 +3,7 @@
 To build this, do the following:
 
 Make the C++ test library (the `make install` step installs it to
-`/usr/local/c++-ffi-example` which you can clean up when you're done:
+`/usr/local/c++-ffi-example` which you can clean up when you're done):
 
 ```
 cd c++-lib
